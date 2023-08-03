@@ -26,7 +26,8 @@ Durante o desenvolvimento, foram aplicadas as melhores práticas de design e usa
 
 * Responsividade: Garantir que a página seja amigável em diferentes dispositivos e tamanhos de tela.
 * Animações: Utilizar bibliotecas de animações para adicionar elementos visuais interativos.
-
+### Contribuições
+Contribuições são bem-vindas! Se você deseja contribuir com melhorias, correções de bugs ou adicionar novos recursos, sinta-se à vontade para criar um pull request.
 ### Resultado final do Projeto
 
 ![Home-page](https://github.com/TiagoHenrique10/Projeto-Consumindo-API/assets/96561261/e3ed77d8-35c7-46cf-b545-11b4eb7b4333)
