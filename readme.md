@@ -2,7 +2,7 @@
 ### Olá! 👋
 Obrigado por conferir este projeto de codificação front-end.
 
-- Link do Projeto: 
+- Link do Projeto: https://tiagohenrique10.github.io/Projeto-LandingPage/
   
 ### Objetivo desse projeto:
 
