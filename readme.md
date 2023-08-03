@@ -30,4 +30,5 @@ Durante o desenvolvimento, foram aplicadas as melhores práticas de design e usa
 Contribuições são bem-vindas! Se você deseja contribuir com melhorias, correções de bugs ou adicionar novos recursos, sinta-se à vontade para criar um pull request.
 ### Resultado final do Projeto
 
-![Home-page](https://github.com/TiagoHenrique10/Projeto-Consumindo-API/assets/96561261/e3ed77d8-35c7-46cf-b545-11b4eb7b4333)
+![landingpage](https://github.com/TiagoHenrique10/Projeto-LandingPage/assets/96561261/3f132c93-62c0-4d96-ac8b-6c09a83096be)
+
